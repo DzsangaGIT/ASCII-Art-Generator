@@ -1,0 +1,20 @@
+D:\low taper fade\bin\Debug\net8.0\low taper fade.exe
+D:\low taper fade\bin\Debug\net8.0\low taper fade.deps.json
+D:\low taper fade\bin\Debug\net8.0\low taper fade.runtimeconfig.json
+D:\low taper fade\bin\Debug\net8.0\low taper fade.dll
+D:\low taper fade\bin\Debug\net8.0\low taper fade.pdb
+D:\low taper fade\obj\Debug\net8.0\low taper fade.GeneratedMSBuildEditorConfig.editorconfig
+D:\low taper fade\obj\Debug\net8.0\low taper fade.AssemblyInfoInputs.cache
+D:\low taper fade\obj\Debug\net8.0\low taper fade.AssemblyInfo.cs
+D:\low taper fade\obj\Debug\net8.0\low taper fade.csproj.CoreCompileInputs.cache
+D:\low taper fade\obj\Debug\net8.0\low taper fade.dll
+D:\low taper fade\obj\Debug\net8.0\refint\low taper fade.dll
+D:\low taper fade\obj\Debug\net8.0\low taper fade.pdb
+D:\low taper fade\obj\Debug\net8.0\low taper fade.genruntimeconfig.cache
+D:\low taper fade\obj\Debug\net8.0\ref\low taper fade.dll
+D:\low taper fade\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\low taper fade\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\low taper fade\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\low taper fade\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\low taper fade\obj\Debug\net8.0\low taper fade.csproj.AssemblyReference.cache
+D:\low taper fade\obj\Debug\net8.0\low tape.DE4569AF.Up2Date
